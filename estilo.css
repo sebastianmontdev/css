@@ -2,5 +2,26 @@
     color: red;
 
 }
+
+[rancio="sii"] {
+color: red  ;
+
+}
+
+h2 p {
+    color: red;
+}
+h2 b {
+
+    color: green;
+}
+.h2-class b span {
+
+    color: blue;
+}
+
+h2:hover{
+    color: pink;
+}
 /*  *este sirve para cambiar todos los elementos de la pagina 
 /*  h1 este solo cambia los elelmentos de h1
