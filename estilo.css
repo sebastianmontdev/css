@@ -20,7 +20,7 @@ h2 b {
     color: blue;
 }
 
-h2:hover{
+.h2-class b:hover{
     color: pink;
 }
 /*  *este sirve para cambiar todos los elementos de la pagina 
