@@ -1,0 +1,12 @@
+.contact-form {
+
+    font-size: 25px;
+}
+
+.contact-form h2{
+    font-size: 2em;/*este es para cambiar el tamaño de mlas letras*/
+    font-family: "Oswald", sans-serif;/*este es para la fuente del texto*/
+    line-height: 1;/*este sirve para cambiar el tamaño de las letras*/
+    font: weight 1px;/*este sirve para el grosor de las letras*/
+    color: red;/*este sirve para cambiar el color*/
+}

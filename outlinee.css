@@ -1,0 +1,41 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+}
+/*.caja1 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: auto;
+    border: 5px solid blue;
+    box-sizing: border-box;
+}
+
+.caja2{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    margin: auto;
+    outline: a;
+
+
+}*/
+div {
+    width: 120px;
+    height: 120px;
+    background-color: yellow;
+    display:block;
+}
+.caja1{
+    background-color: aqua;
+}
+.caja2{
+    background-color: blueviolet;
+}
+.caja3{
+    background-color: red;
+}
+.caja4{
+    background-color: pink;
+}

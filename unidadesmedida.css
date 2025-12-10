@@ -1,0 +1,12 @@
+* {
+
+    padding: 0px;
+    margin: 0px;
+}
+
+.contact-form {
+    font-size: 40px;/*este es para cambiar el tamaño de mlas letras*/
+    background-color: black; /*este es para cambiar el color del fondo*/
+    width: 50vw; /*este es para el ancho de la pantalla*/
+    height: 50vh;/*este es para el alto de la pantalla*/
+}
